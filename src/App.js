@@ -12,7 +12,7 @@ function App() {
           setcounter(counter + number);
         }}
       >
-        Add
+        Add Yes
       </button>
     </div>
   );
